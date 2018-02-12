@@ -1,4 +1,4 @@
-i. Project Title (Github - Sprint 0 ).
- ii. Getting Started (explanation of content in reop).
- iii. Author (Sarah Khaled 37-6662). 
- iv. Acknowledgments (book Chacon, Scott, and Ben Straub. Pro Git. Apress, 2014.). 
+ i.Github - Sprint 0.
+ ii. Some section from Git Book and a file containing the commands I wrote in my individual part to learn git and github :)
+ iii. Sarah Khaled 37-6662. 
+ iv. book Chacon, Scott, and Ben Straub. Pro Git. Apress, 2014. 
